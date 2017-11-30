@@ -1,11 +1,11 @@
 # Budget-Planner
 
 ## Daftar Isi
-- [1. Prerequisite]
-- [1.1 Realm.io]
-- [1.2 MPAndroidChart]
-- [1.3 AgendaCalendarView]
-- [2 Overview]
+- [1. Prerequisite](https://github.com/ferdinandjason/Budget-Planner/blob/master/README.md#prerequisite)
+- [1.1 Realm.io](https://github.com/ferdinandjason/Budget-Planner/blob/master/README.md#realmio)
+- [1.2 MPAndroidChart](https://github.com/ferdinandjason/Budget-Planner/blob/master/README.md#mpandroidcharts-realm)
+- [1.3 AgendaCalendarView](https://github.com/ferdinandjason/Budget-Planner/blob/master/README.md#agenda-calendar-view)
+- [2 Overview](https://github.com/ferdinandjason/Budget-Planner/blob/master/README.md#overview)
 
 ## Prerequisite
 Software/Database/Project usage in this project
